@@ -1,3 +1,3 @@
-# Fullstack / Python Developer
+# Fullstack developer
 
 🤔 Just bydlokoder
